@@ -1,0 +1,19 @@
+{
+  "algorithm": "Linear Regression",
+  "r2_score": 0.9457,
+  "mae": 959.99,
+  "rmse": 4438.96,
+  "n_customers": 5878,
+  "n_features": 5,
+  "feature_columns": [
+    "Total_Quantity",
+    "Average_Price",
+    "Number_of_Transactions",
+    "Number_of_Products",
+    "Average_Quantity"
+  ],
+  "dataset": "Online Retail II (UCI)",
+  "trained_on": "2024-01-01",
+  "author": "Agnibha Paul",
+  "project": "MCA Summer Training Project"
+}
